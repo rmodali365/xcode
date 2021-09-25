@@ -1,2 +1,2 @@
 # xcode
-all xcode projects done during the course.
+all completed working xcode projects.
